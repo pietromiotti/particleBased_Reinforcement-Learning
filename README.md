@@ -17,6 +17,10 @@ In the particle-based model, individuals are represented as particles that move 
 ### Optimal Planning with Reinforcement Learning
 In this project, I explored whether it was possible to achieve an optimal planning strategy for escaping from a room using Reinforcement Learning, reproducing the work done in [this paper](https://arxiv.org/abs/2012.00065). By training a neural network to identify the best action policy based on the state of the room, I designed an appropriate reward function to guide the learning process. This project was particularly enjoyable as it combined particle-based modeling with neural networks, demonstrating how a single agent can become "intelligent" and improve evacuation strategies.
 
+
+https://github.com/user-attachments/assets/61a5157f-b87e-43af-a716-ae28da5e611c
+
+
 ### Applications
 The room evacuation particle-based model has several practical applications:
 - **Safety Planning:** Helps in designing safer building layouts and evacuation plans by simulating different emergency scenarios.
